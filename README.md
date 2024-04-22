@@ -1,16 +1,21 @@
-### Hi there 👋
+### SharpGuard（中文）
 
-<!--
-**SharpGuard/sharpguard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Open Source VPN Gateway
 
-Here are some ideas to get you started:
+**SharpGuard** is an Open Source VPN Gateway, it can supports ipsec vpn, ssl vpn and wireguard.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Demo
+
+### Install
+
+### Build
+
+
+### Contribute
+
+### Contact
+* WeChat Group: Please contact Wechat ID: yorkszhang to join the SharpGuard Wechat group
+
+### License
+
+This project is licensed under [Apache 2.0 License]()
