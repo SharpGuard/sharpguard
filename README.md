@@ -23,7 +23,7 @@
 ### Contact
 ---
 
-* WeChat Group: Please contact Wechat ID: yorkszhang to join the SharpGuard Wechat group
+* WeChat Group: Please contact Wechat ID: [yorkszhang]() to join the SharpGuard Wechat group
 
 ### License
 ---
